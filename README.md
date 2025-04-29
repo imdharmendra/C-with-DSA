@@ -2,11 +2,6 @@
 
 Welcome to the **C++** folder! This directory contains various C++ programs, projects, and practice files ranging from basic syntax demonstrations to advanced data structures and algorithms.
 
-## 📁 Folder Structure
-
-
-> *Note: Actual structure may vary based on your files.*
-
 ## ✅ Topics Covered
 
 - ✅ Basic Syntax and I/O
